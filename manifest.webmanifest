@@ -1,0 +1,21 @@
+{
+  "name": "AnimalCup",
+  "short_name": "AnimalCup",
+  "id": "com.Animal.CupBoom",
+  "description": "Sort 4 Cute Animals of the same type into a cup to make it explode. \nComplete all 10 levels to complete the game.",
+  "orientation": "portrait",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "black",
+  "categories": ["games", "entertainment"],
+  "icons": [{
+        "src": "ups5.png",
+        "sizes": "96x96"
+      },{
+        "src": "ups4.png",
+        "sizes": "144x144"
+      },{
+        "src": "ups3.png",
+        "sizes": "192x192"
+      }]
+}
